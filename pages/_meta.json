@@ -1,0 +1,17 @@
+{
+  "index": "OVERVIEW",
+  "another": "FRONTEND",
+  "advanced": "BACKEND",
+"smart": "SMARTCONTRACT",
+
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Go Live ↗",
+    "type": "page",
+    "href": "https://muse-364595.netlify.app",
+    "newWindow": true
+  }
+}
